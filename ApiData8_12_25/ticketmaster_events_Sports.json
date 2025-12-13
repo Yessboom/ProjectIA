@@ -1,0 +1,13 @@
+{
+  "_links": {
+    "self": {
+      "href": "/discovery/v2/events.json?size=20&city=Brussels&countryCode=BE&classificationName=Sports&sort=date%2Casc"
+    }
+  },
+  "page": {
+    "size": 20,
+    "totalElements": 0,
+    "totalPages": 0,
+    "number": 0
+  }
+}

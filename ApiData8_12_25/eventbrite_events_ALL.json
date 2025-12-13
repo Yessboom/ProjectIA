@@ -1,0 +1,2200 @@
+[
+  {
+    "name": {
+      "text": "Jamii Padel x Tour & Taxis Beginner Friendly Tournament",
+      "html": "Jamii Padel x Tour &amp; Taxis Beginner Friendly Tournament"
+    },
+    "description": {
+      "text": "Join us for a fun and beginner-friendly Padel tournament at Tour & Taxis, perfect for connecting with the Jamii community!",
+      "html": "Join us for a fun and beginner-friendly Padel tournament at Tour &amp; Taxis, perfect for connecting with the Jamii community!"
+    },
+    "url": "https://www.eventbrite.be/e/jamii-padel-x-tour-taxis-beginner-friendly-tournament-tickets-1974363890545",
+    "vanity_url": "https://jamiitournament.eventbrite.be",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-14T12:00:00",
+      "utc": "2025-12-14T11:00:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-14T19:00:00",
+      "utc": "2025-12-14T18:00:00Z"
+    },
+    "organization_id": "2817605065531",
+    "created": "2025-11-18T17:45:51Z",
+    "changed": "2025-12-06T15:58:13Z",
+    "published": "2025-11-18T17:57:01Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "nl_BE",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "auto_create",
+    "is_free": false,
+    "version": null,
+    "summary": "Join us for a fun and beginner-friendly Padel tournament at Tour & Taxis, perfect for connecting with the Jamii community!",
+    "facebook_event_id": null,
+    "logo_id": "1171259521",
+    "organizer_id": "113085357841",
+    "venue_id": "295288568",
+    "category_id": "108",
+    "subcategory_id": "8012",
+    "format_id": "13",
+    "id": "1974363890545",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1974363890545/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171259521%2F2817604078671%2F1%2Foriginal.20251118-175439?auto=format%2Ccompress&q=75&sharp=10&s=ba827f9681175de8daa7c6b19be06e26",
+        "width": 2160,
+        "height": 1080
+      },
+      "id": "1171259521",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171259521%2F2817604078671%2F1%2Foriginal.20251118-175439?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=95f360a100f9c9b34ba061bb2d440a51",
+      "aspect_ratio": "2",
+      "edge_color": "#2c2c2c",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "Rejoignez le CCI meet-up à United XR Europe le 10 décembre prochain !",
+      "html": "Rejoignez le CCI meet-up à United XR Europe le 10 décembre prochain !"
+    },
+    "description": {
+      "text": "Une journée de connexion des industries créatives numériques made in Wallonia le 10 décembre.",
+      "html": "Une journée de connexion des industries créatives numériques made in Wallonia le 10 décembre."
+    },
+    "url": "https://www.eventbrite.fr/e/rejoignez-le-cci-meet-up-a-united-xr-europe-le-10-decembre-prochain-tickets-1781452044019",
+    "vanity_url": "https://ccimeetup.eventbrite.fr",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-10T09:00:00",
+      "utc": "2025-12-10T08:00:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-10T17:00:00",
+      "utc": "2025-12-10T16:00:00Z"
+    },
+    "organization_id": "266709417003",
+    "created": "2025-10-07T14:24:37Z",
+    "changed": "2025-10-30T16:57:17Z",
+    "published": "2025-10-16T08:36:12Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "en_US",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "coyote",
+    "is_free": true,
+    "version": null,
+    "summary": "Une journée de connexion des industries créatives numériques made in Wallonia le 10 décembre.",
+    "facebook_event_id": null,
+    "logo_id": "1146794763",
+    "organizer_id": "32984600191",
+    "venue_id": "290674563",
+    "category_id": "102",
+    "subcategory_id": "2004",
+    "format_id": "1",
+    "id": "1781452044019",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1781452044019/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": {
+        "top_left": {
+          "x": 920,
+          "y": 57
+        },
+        "width": 648,
+        "height": 324
+      },
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1146794763%2F113265989473%2F1%2Foriginal.20251007-142423?auto=format%2Ccompress&q=75&sharp=10&s=7f7a443e6b4c37fc80c358f8fe8e6876",
+        "width": 1702,
+        "height": 630
+      },
+      "id": "1146794763",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1146794763%2F113265989473%2F1%2Foriginal.20251007-142423?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=920%2C57%2C648%2C324&s=21476b92298fc38200e9502f5a092baf",
+      "aspect_ratio": "2",
+      "edge_color": "#262e39",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "Mod #4 Café Filtre & Méthodes Lentes -FR-BXL",
+      "html": "Mod #4 Café Filtre &amp; Méthodes Lentes -FR-BXL"
+    },
+    "description": {
+      "text": "Café Filtre & Methodes Lentes - Module 4/4 du cursus Sensibilisation au métier de Barista, en vue de l'obtention d'une attestation.",
+      "html": "Café Filtre &amp; Methodes Lentes - Module 4/4 du cursus Sensibilisation au métier de Barista, en vue de l'obtention d'une attestation."
+    },
+    "url": "https://www.eventbrite.be/e/billets-mod-4-cafe-filtre-methodes-lentes-fr-bxl-1380856542089",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-08T10:00:00",
+      "utc": "2025-12-08T09:00:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-08T15:00:00",
+      "utc": "2025-12-08T14:00:00Z"
+    },
+    "organization_id": "459620621494",
+    "created": "2025-05-26T16:56:28Z",
+    "changed": "2025-12-08T09:45:27Z",
+    "published": "2025-05-26T16:57:17Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "started",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 480,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "fr_FR",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "coyote",
+    "is_free": false,
+    "version": null,
+    "summary": "Café Filtre & Methodes Lentes - Module 4/4 du cursus Sensibilisation au métier de Barista, en vue de l'obtention d'une attestation.",
+    "facebook_event_id": null,
+    "logo_id": "1039066603",
+    "organizer_id": "30842592365",
+    "venue_id": "282508363",
+    "category_id": "110",
+    "subcategory_id": "10999",
+    "format_id": "9",
+    "id": "1380856542089",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1380856542089/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": {
+        "top_left": {
+          "x": 0,
+          "y": 125
+        },
+        "width": 2000,
+        "height": 1000
+      },
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1039066603%2F203019018348%2F1%2Foriginal.20250526-164646?auto=format%2Ccompress&q=75&sharp=10&s=e0b662d5a1463ef81658077b70bc7e61",
+        "width": 2000,
+        "height": 1125
+      },
+      "id": "1039066603",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1039066603%2F203019018348%2F1%2Foriginal.20250526-164646?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C125%2C2000%2C1000&s=790ebd23b1bb02d225890b1328600ac5",
+      "aspect_ratio": "2",
+      "edge_color": "#c4b8a9",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "Mod #1 Découverte / Sommellerie du Café, Ateliers Sensoriels & Dégustation",
+      "html": "Mod #1 Découverte / Sommellerie du Café, Ateliers Sensoriels &amp; Dégustation"
+    },
+    "description": {
+      "text": "Découverte / Sommellerie du Café - Module 1/4 du cursus Sensibilisation au métier de Barista, en vue de l'obtention d'une attestation.",
+      "html": "Découverte / Sommellerie du Café - Module 1/4 du cursus Sensibilisation au métier de Barista, en vue de l'obtention d'une attestation."
+    },
+    "url": "https://www.eventbrite.be/e/billets-mod-1-decouverte-sommellerie-du-cafe-ateliers-sensoriels-degustation-1380694467319",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2026-01-19T10:00:00",
+      "utc": "2026-01-19T09:00:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2026-01-19T15:00:00",
+      "utc": "2026-01-19T14:00:00Z"
+    },
+    "organization_id": "459620621494",
+    "created": "2025-05-26T15:19:35Z",
+    "changed": "2025-11-29T20:17:23Z",
+    "published": "2025-05-26T15:20:01Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 480,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "fr_FR",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "coyote",
+    "is_free": false,
+    "version": null,
+    "summary": "Découverte / Sommellerie du Café - Module 1/4 du cursus Sensibilisation au métier de Barista, en vue de l'obtention d'une attestation.",
+    "facebook_event_id": null,
+    "logo_id": "1038975333",
+    "organizer_id": "30842592365",
+    "venue_id": "282508363",
+    "category_id": "110",
+    "subcategory_id": "10999",
+    "format_id": "9",
+    "id": "1380694467319",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1380694467319/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": {
+        "top_left": {
+          "x": 1,
+          "y": 1278
+        },
+        "width": 2394,
+        "height": 1197
+      },
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1038975333%2F203019018348%2F1%2Foriginal.20250526-141618?auto=format%2Ccompress&q=75&sharp=10&s=4a1d83b386648baa7cf049267c5d1cb4",
+        "width": 2395,
+        "height": 3600
+      },
+      "id": "1038975333",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1038975333%2F203019018348%2F1%2Foriginal.20250526-141618?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C1278%2C2394%2C1197&s=8c26b59afb73e95b290a34dc1f970a2d",
+      "aspect_ratio": "2",
+      "edge_color": "#32201a",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "Christmas concert",
+      "html": "Christmas concert"
+    },
+    "description": {
+      "text": "Truly unique musical evening: the encounter of the zither, tuba, and piano promises an unforgettable night!",
+      "html": "Truly unique musical evening: the encounter of the zither, tuba, and piano promises an unforgettable night!"
+    },
+    "url": "https://www.eventbrite.com/e/christmas-concert-tickets-1852306120469",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-11T19:00:00",
+      "utc": "2025-12-11T18:00:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-11T21:00:00",
+      "utc": "2025-12-11T20:00:00Z"
+    },
+    "organization_id": "896473904463",
+    "created": "2025-10-21T13:54:26Z",
+    "changed": "2025-12-01T09:14:11Z",
+    "published": "2025-10-21T13:55:11Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "en_US",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "coyote",
+    "is_free": true,
+    "version": null,
+    "summary": "Truly unique musical evening: the encounter of the zither, tuba, and piano promises an unforgettable night!",
+    "facebook_event_id": null,
+    "logo_id": "1158537463",
+    "organizer_id": "52552932333",
+    "venue_id": "287778843",
+    "category_id": null,
+    "subcategory_id": null,
+    "format_id": null,
+    "id": "1852306120469",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1852306120469/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": {
+        "top_left": {
+          "x": 0,
+          "y": 0
+        },
+        "width": 2200,
+        "height": 1100
+      },
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1158537463%2F896473864183%2F1%2Foriginal.20251021-135249?auto=format%2Ccompress&q=75&sharp=10&s=7aee7f9ac9cb887bd82be321c6f5ac35",
+        "width": 2200,
+        "height": 1200
+      },
+      "id": "1158537463",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1158537463%2F896473864183%2F1%2Foriginal.20251021-135249?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2200%2C1100&s=fea390979dc28274c9d3e4afd51b2b20",
+      "aspect_ratio": "2",
+      "edge_color": "#57544d",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "Crossing by More Love Ensemble",
+      "html": "Crossing by More Love Ensemble"
+    },
+    "description": {
+      "text": "More Love Ensemble brings Crossing to Brussels, an extraordinary musical journey inspired by the treasures of Croatian classical music.",
+      "html": "More Love Ensemble brings Crossing to Brussels, an extraordinary musical journey inspired by the treasures of Croatian classical music."
+    },
+    "url": "https://www.eventbrite.com/e/crossing-by-more-love-ensemble-tickets-1828894575909",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-15T19:00:00",
+      "utc": "2025-12-15T18:00:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-15T20:30:00",
+      "utc": "2025-12-15T19:30:00Z"
+    },
+    "organization_id": "896473904463",
+    "created": "2025-10-15T13:41:26Z",
+    "changed": "2025-10-15T13:44:47Z",
+    "published": "2025-10-15T13:44:47Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "en_US",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "coyote",
+    "is_free": true,
+    "version": null,
+    "summary": "More Love Ensemble brings Crossing to Brussels, an extraordinary musical journey inspired by the treasures of Croatian classical music.",
+    "facebook_event_id": null,
+    "logo_id": "1153871263",
+    "organizer_id": "52552932333",
+    "venue_id": "287778843",
+    "category_id": "103",
+    "subcategory_id": "3002",
+    "format_id": "6",
+    "id": "1828894575909",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1828894575909/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1153871263%2F896473864183%2F1%2Foriginal.20251015-133841?auto=format%2Ccompress&q=75&sharp=10&s=9d473b3348ce9f659b2fb2e98471e052",
+        "width": 900,
+        "height": 1058
+      },
+      "id": "1153871263",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1153871263%2F896473864183%2F1%2Foriginal.20251015-133841?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.274&fp-y=0.559&s=4d061e04d318c39f4e2a768ee20f916c",
+      "aspect_ratio": "0.85",
+      "edge_color": "#91312e",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "Soirée Stand Up \"Sac à Malice\" Pompette",
+      "html": "Soirée Stand Up &#34;Sac à Malice&#34; Pompette"
+    },
+    "description": {
+      "text": "6 artistes incroyable vous feront rire et sourire dans la joie et la fête !",
+      "html": "6 artistes incroyable vous feront rire et sourire dans la joie et la fête !"
+    },
+    "url": "https://www.eventbrite.fr/e/soiree-stand-up-sac-a-malice-pompette-tickets-1510656156229",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-10T20:30:00",
+      "utc": "2025-12-10T19:30:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-10T22:00:00",
+      "utc": "2025-12-10T21:00:00Z"
+    },
+    "organization_id": "1962009908163",
+    "created": "2025-07-21T16:01:08Z",
+    "changed": "2025-12-07T16:09:07Z",
+    "published": "2025-07-21T16:01:52Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "en_US",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "coyote",
+    "is_free": true,
+    "version": null,
+    "summary": "6 artistes incroyable vous feront rire et sourire dans la joie et la fête !",
+    "facebook_event_id": null,
+    "logo_id": "1078318393",
+    "organizer_id": "77258489073",
+    "venue_id": "279399083",
+    "category_id": "105",
+    "subcategory_id": "5010",
+    "format_id": "6",
+    "id": "1510656156229",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1510656156229/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": {
+        "top_left": {
+          "x": 0,
+          "y": 0
+        },
+        "width": 2160,
+        "height": 1080
+      },
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1078318393%2F294651936977%2F1%2Foriginal.20250721-225632?auto=format%2Ccompress&q=75&sharp=10&s=8a5404500902d245b42b698daf4c13c5",
+        "width": 2160,
+        "height": 1080
+      },
+      "id": "1078318393",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1078318393%2F294651936977%2F1%2Foriginal.20250721-225632?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=7751f3d389e8e99f95773c5fe58e58fb",
+      "aspect_ratio": "2",
+      "edge_color": "#e1dede",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "Soirée Stand Up \"Sac à Malice\" Pompette",
+      "html": "Soirée Stand Up &#34;Sac à Malice&#34; Pompette"
+    },
+    "description": {
+      "text": "6 artistes incroyable vous feront rire et sourire dans la joie et la fête !",
+      "html": "6 artistes incroyable vous feront rire et sourire dans la joie et la fête !"
+    },
+    "url": "https://www.eventbrite.fr/e/soiree-stand-up-sac-a-malice-pompette-tickets-1510666507189",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2026-01-07T20:30:00",
+      "utc": "2026-01-07T19:30:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2026-01-07T22:00:00",
+      "utc": "2026-01-07T21:00:00Z"
+    },
+    "organization_id": "1962009908163",
+    "created": "2025-07-21T16:04:43Z",
+    "changed": "2025-07-21T22:57:03Z",
+    "published": "2025-07-21T16:05:13Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "en_US",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "coyote",
+    "is_free": true,
+    "version": null,
+    "summary": "6 artistes incroyable vous feront rire et sourire dans la joie et la fête !",
+    "facebook_event_id": null,
+    "logo_id": "1078318573",
+    "organizer_id": "77258489073",
+    "venue_id": "279399743",
+    "category_id": "105",
+    "subcategory_id": "5010",
+    "format_id": "6",
+    "id": "1510666507189",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1510666507189/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": {
+        "top_left": {
+          "x": 0,
+          "y": 0
+        },
+        "width": 2160,
+        "height": 1080
+      },
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1078318573%2F294651936977%2F1%2Foriginal.20250721-225657?auto=format%2Ccompress&q=75&sharp=10&s=e9832a4ee37dcc0f69de73d6cb865d4f",
+        "width": 2160,
+        "height": 1080
+      },
+      "id": "1078318573",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1078318573%2F294651936977%2F1%2Foriginal.20250721-225657?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=0f663b55ccfe954f66c49be9eb032169",
+      "aspect_ratio": "2",
+      "edge_color": "#e8e5e4",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "Soirée Stand Up \"Sac à Malice\" Pompette",
+      "html": "Soirée Stand Up &#34;Sac à Malice&#34; Pompette"
+    },
+    "description": {
+      "text": "6 artistes incroyable vous feront rire et sourire dans la joie et la fête !",
+      "html": "6 artistes incroyable vous feront rire et sourire dans la joie et la fête !"
+    },
+    "url": "https://www.eventbrite.fr/e/soiree-stand-up-sac-a-malice-pompette-tickets-1510667680699",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2026-01-14T20:30:00",
+      "utc": "2026-01-14T19:30:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2026-01-14T22:00:00",
+      "utc": "2026-01-14T21:00:00Z"
+    },
+    "organization_id": "1962009908163",
+    "created": "2025-07-21T16:08:15Z",
+    "changed": "2025-07-21T22:57:33Z",
+    "published": "2025-07-21T16:08:54Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "en_US",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "coyote",
+    "is_free": true,
+    "version": null,
+    "summary": "6 artistes incroyable vous feront rire et sourire dans la joie et la fête !",
+    "facebook_event_id": null,
+    "logo_id": "1078318903",
+    "organizer_id": "77258489073",
+    "venue_id": "279400403",
+    "category_id": "105",
+    "subcategory_id": "5010",
+    "format_id": "6",
+    "id": "1510667680699",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1510667680699/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": {
+        "top_left": {
+          "x": 0,
+          "y": 0
+        },
+        "width": 2160,
+        "height": 1080
+      },
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1078318903%2F294651936977%2F1%2Foriginal.20250721-225727?auto=format%2Ccompress&q=75&sharp=10&s=78ad90e708233db0f8d691ecde5ec122",
+        "width": 2160,
+        "height": 1080
+      },
+      "id": "1078318903",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1078318903%2F294651936977%2F1%2Foriginal.20250721-225727?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=c38aa40312a2f37f3fb744c8ac423416",
+      "aspect_ratio": "2",
+      "edge_color": "#e1dedd",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "Voyage Musical - Christmas Concert / Concert de Noël",
+      "html": "Voyage Musical - Christmas Concert / Concert de Noël"
+    },
+    "description": {
+      "text": "Join us for a festive Christmas Concert featuring the Chœur de la Fédération Wallonie-Bruxelles, under the direction of Anthony Vigneron",
+      "html": "Join us for a festive Christmas Concert featuring the Chœur de la Fédération Wallonie-Bruxelles, under the direction of Anthony Vigneron"
+    },
+    "url": "https://www.eventbrite.fr/e/voyage-musical-christmas-concert-concert-de-noel-tickets-1969336462372",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-13T14:00:00",
+      "utc": "2025-12-13T13:00:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-13T15:30:00",
+      "utc": "2025-12-13T14:30:00Z"
+    },
+    "organization_id": "2607822183261",
+    "created": "2025-11-13T14:34:30Z",
+    "changed": "2025-12-08T13:14:39Z",
+    "published": "2025-11-13T14:49:52Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "en_GB",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "auto_create",
+    "is_free": false,
+    "version": null,
+    "summary": "Join us for a festive Christmas Concert featuring the Chœur de la Fédération Wallonie-Bruxelles, under the direction of Anthony Vigneron",
+    "facebook_event_id": null,
+    "logo_id": "1170879195",
+    "organizer_id": "106916647031",
+    "venue_id": "295198507",
+    "category_id": "116",
+    "subcategory_id": "16006",
+    "format_id": "6",
+    "id": "1969336462372",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1969336462372/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": {
+        "top_left": {
+          "x": 0,
+          "y": 30
+        },
+        "width": 1280,
+        "height": 640
+      },
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170879195%2F2607821931511%2F1%2Foriginal.20251113-143602?auto=format%2Ccompress&q=75&sharp=10&s=0426b7253256a2cbd072130f0e2b281b",
+        "width": 1280,
+        "height": 800
+      },
+      "id": "1170879195",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170879195%2F2607821931511%2F1%2Foriginal.20251113-143602?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C30%2C1280%2C640&s=2b89fc173c107dd5c8067c5d712b664d",
+      "aspect_ratio": "2",
+      "edge_color": "#42352a",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "BRUSSELS x Old School Vibes",
+      "html": "BRUSSELS x Old School Vibes"
+    },
+    "description": {
+      "text": "BELGIUM - WE ARE BACK! ++ Old School Vibes - Only Hip Hop & RnB // 90s & 2000s ++",
+      "html": "BELGIUM - WE ARE BACK! ++ Old School Vibes - Only Hip Hop &amp; RnB // 90s &amp; 2000s ++"
+    },
+    "url": "https://www.eventbrite.de/e/brussels-x-old-school-vibes-tickets-1431579726499",
+    "vanity_url": "https://oldschoolvibesbrussels4.eventbrite.de",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-19T23:00:00",
+      "utc": "2025-12-19T22:00:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-20T05:00:00",
+      "utc": "2025-12-20T04:00:00Z"
+    },
+    "organization_id": "1445950694793",
+    "created": "2025-06-24T14:53:46Z",
+    "changed": "2025-12-08T11:26:12Z",
+    "published": "2025-06-24T14:56:22Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": true,
+    "locale": "en_US",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "coyote",
+    "is_free": false,
+    "version": null,
+    "summary": "BELGIUM - WE ARE BACK! ++ Old School Vibes - Only Hip Hop & RnB // 90s & 2000s ++",
+    "facebook_event_id": null,
+    "logo_id": "1059497733",
+    "organizer_id": "62536078583",
+    "venue_id": "275935733",
+    "category_id": "103",
+    "subcategory_id": "3014",
+    "format_id": "11",
+    "id": "1431579726499",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1431579726499/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1059497733%2F1445950664583%2F1%2Foriginal.20250624-145420?auto=format%2Ccompress&q=75&sharp=10&s=3351b6911ebe99b0554f94309da03db4",
+        "width": 1320,
+        "height": 682
+      },
+      "id": "1059497733",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1059497733%2F1445950664583%2F1%2Foriginal.20250624-145420?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.180871212121&fp-y=0.678700361011&s=fbb61f8c5a355954c0a600b09589cade",
+      "aspect_ratio": "1.935",
+      "edge_color": "#342222",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "MODENA CITY RAMBLERS & LENNON KELLY",
+      "html": "MODENA CITY RAMBLERS &amp; LENNON KELLY"
+    },
+    "description": {
+      "text": "Unisciti a noi per una serata di musica e divertimento con i Modena City Ramblers e Lennon Kelly!",
+      "html": "Unisciti a noi per una serata di musica e divertimento con i Modena City Ramblers e Lennon Kelly!"
+    },
+    "url": "https://www.eventbrite.be/e/modena-city-ramblers-lennon-kelly-tickets-1848798097879",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-13T20:30:00",
+      "utc": "2025-12-13T19:30:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-13T23:30:00",
+      "utc": "2025-12-13T22:30:00Z"
+    },
+    "organization_id": "952560964723",
+    "created": "2025-10-20T13:08:05Z",
+    "changed": "2025-12-07T20:43:59Z",
+    "published": "2025-10-20T13:18:10Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "nl_BE",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "auto_create",
+    "is_free": false,
+    "version": null,
+    "summary": "Unisciti a noi per una serata di musica e divertimento con i Modena City Ramblers e Lennon Kelly!",
+    "facebook_event_id": null,
+    "logo_id": "1157551333",
+    "organizer_id": "46793788563",
+    "venue_id": "292626743",
+    "category_id": "103",
+    "subcategory_id": "3007",
+    "format_id": "6",
+    "id": "1848798097879",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1848798097879/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": {
+        "top_left": {
+          "x": 0,
+          "y": 14
+        },
+        "width": 1200,
+        "height": 600
+      },
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1157551333%2F952557853093%2F1%2Foriginal.20251020-131006?auto=format%2Ccompress&q=75&sharp=10&s=988e25dfe7e6bf705d7fedaa61c4d97b",
+        "width": 1200,
+        "height": 628
+      },
+      "id": "1157551333",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1157551333%2F952557853093%2F1%2Foriginal.20251020-131006?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C14%2C1200%2C600&s=1f767b437bed5fc8aa88a8408276bb32",
+      "aspect_ratio": "2",
+      "edge_color": "#c09431",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "MURUBUTU live @ Pilar",
+      "html": "MURUBUTU live @ Pilar"
+    },
+    "description": {
+      "text": "Murubutu live at Pilar, Brussels",
+      "html": "Murubutu live at Pilar, Brussels"
+    },
+    "url": "https://www.eventbrite.be/e/murubutu-live-pilar-tickets-1973110907840",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2026-01-31T19:30:00",
+      "utc": "2026-01-31T18:30:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2026-01-31T23:00:00",
+      "utc": "2026-01-31T22:00:00Z"
+    },
+    "organization_id": "952560964723",
+    "created": "2025-11-18T10:17:36Z",
+    "changed": "2025-12-07T16:01:25Z",
+    "published": "2025-11-18T13:00:12Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "en_US",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "coyote",
+    "is_free": false,
+    "version": null,
+    "summary": "Murubutu live at Pilar, Brussels",
+    "facebook_event_id": null,
+    "logo_id": "1171223788",
+    "organizer_id": "46793788563",
+    "venue_id": "292626743",
+    "category_id": "103",
+    "subcategory_id": "3001",
+    "format_id": "6",
+    "id": "1973110907840",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1973110907840/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": {
+        "top_left": {
+          "x": 62,
+          "y": 0
+        },
+        "width": 2044,
+        "height": 1022
+      },
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171223788%2F952557853093%2F1%2Foriginal.20251118-101555?auto=format%2Ccompress&q=75&sharp=10&s=ed3d883a2a49d23d2569eb77d237edd8",
+        "width": 2160,
+        "height": 2700
+      },
+      "id": "1171223788",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171223788%2F952557853093%2F1%2Foriginal.20251118-101555?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=62%2C0%2C2044%2C1022&s=f94cea18aa470ce6d630674143444184",
+      "aspect_ratio": "2",
+      "edge_color": "#366194",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "The Cost of Growth. Documentary Screening & Discussion with Anuna De Wever",
+      "html": "The Cost of Growth. Documentary Screening &amp; Discussion with Anuna De Wever"
+    },
+    "description": {
+      "text": "Reserve your ticket now to join us for a special screening night of The Cost of Growth, followed\nby a live discussion with co-producer Anuna",
+      "html": "Reserve your ticket now to join us for a special screening night of The Cost of Growth, followed\nby a live discussion with co-producer Anuna"
+    },
+    "url": "https://www.eventbrite.be/e/the-cost-of-growth-documentary-screening-discussion-with-anuna-de-wever-tickets-1974251689950",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-15T19:00:00",
+      "utc": "2025-12-15T18:00:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-15T22:30:00",
+      "utc": "2025-12-15T21:30:00Z"
+    },
+    "organization_id": "2792188969591",
+    "created": "2025-11-18T14:28:05Z",
+    "changed": "2025-12-07T20:56:45Z",
+    "published": "2025-11-18T14:56:38Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "en_US",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "coyote",
+    "is_free": false,
+    "version": null,
+    "summary": "Reserve your ticket now to join us for a special screening night of The Cost of Growth, followed\nby a live discussion with co-producer Anuna",
+    "facebook_event_id": null,
+    "logo_id": "1171424639",
+    "organizer_id": "112186116911",
+    "venue_id": "283994593",
+    "category_id": "104",
+    "subcategory_id": "4999",
+    "format_id": "7",
+    "id": "1974251689950",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1974251689950/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171424639%2F2598278320621%2F1%2Foriginal.20251120-160049?auto=format%2Ccompress&q=75&sharp=10&s=0a377084810d402c470d1db6d41da4e6",
+        "width": 5000,
+        "height": 2617
+      },
+      "id": "1171424639",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171424639%2F2598278320621%2F1%2Foriginal.20251120-160049?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=05096d558b97849956dc12426b10d922",
+      "aspect_ratio": "1.91",
+      "edge_color": "#cd876a",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "Let’s Talk Design",
+      "html": "Let’s Talk Design"
+    },
+    "description": {
+      "text": "Flanders DC and Let's Talk Design are joining forces for an evening of inspiration and networking.",
+      "html": "Flanders DC and Let's Talk Design are joining forces for an evening of inspiration and networking."
+    },
+    "url": "https://www.eventbrite.be/e/lets-talk-design-tickets-1660031933199",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-11T19:00:00",
+      "utc": "2025-12-11T18:00:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-11T22:00:00",
+      "utc": "2025-12-11T21:00:00Z"
+    },
+    "organization_id": "53683794340",
+    "created": "2025-09-03T12:25:17Z",
+    "changed": "2025-12-03T09:45:22Z",
+    "published": "2025-09-03T14:39:46Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "en_GB",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "coyote",
+    "is_free": false,
+    "version": null,
+    "summary": "Flanders DC and Let's Talk Design are joining forces for an evening of inspiration and networking.",
+    "facebook_event_id": null,
+    "logo_id": "1171789237",
+    "organizer_id": "3328882194",
+    "venue_id": "285424813",
+    "category_id": "101",
+    "subcategory_id": "1009",
+    "format_id": "2",
+    "id": "1660031933199",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1660031933199/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171789237%2F2983825088528%2F1%2Foriginal.20251126-083246?auto=format%2Ccompress&q=75&sharp=10&s=493dd0c3ce009f9122d9f95262893dea",
+        "width": 1200,
+        "height": 630
+      },
+      "id": "1171789237",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171789237%2F2983825088528%2F1%2Foriginal.20251126-083246?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c32618491fd676d0c6f5f56bb95dc53f",
+      "aspect_ratio": "1.905",
+      "edge_color": "#fff41c",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "Afrobeats N Brunch  BRUSSELS - Wonderland - Sat 20th Dec",
+      "html": "Afrobeats N Brunch  BRUSSELS - Wonderland - Sat 20th Dec"
+    },
+    "description": {
+      "text": "Global vibes, family energy! ABNB Afro Wonderland hits Brussels Sat 20th Dec with international DJs, hosts & festive Afrobeats.",
+      "html": "Global vibes, family energy! ABNB Afro Wonderland hits Brussels Sat 20th Dec with international DJs, hosts &amp; festive Afrobeats."
+    },
+    "url": "https://www.eventbrite.ch/e/afrobeats-n-brunch-brussels-wonderland-sat-20th-dec-tickets-1972529626211",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-20T16:00:00",
+      "utc": "2025-12-20T15:00:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-20T22:00:00",
+      "utc": "2025-12-20T21:00:00Z"
+    },
+    "organization_id": "1544322621563",
+    "created": "2025-11-17T11:46:00Z",
+    "changed": "2025-12-07T12:43:00Z",
+    "published": "2025-11-17T12:47:45Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "en_GB",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "coyote",
+    "is_free": false,
+    "version": null,
+    "summary": "Global vibes, family energy! ABNB Afro Wonderland hits Brussels Sat 20th Dec with international DJs, hosts & festive Afrobeats.",
+    "facebook_event_id": null,
+    "logo_id": "1171133777",
+    "organizer_id": "65584881853",
+    "venue_id": "251187193",
+    "category_id": "110",
+    "subcategory_id": "10003",
+    "format_id": "8",
+    "id": "1972529626211",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1972529626211/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": {
+        "top_left": {
+          "x": 0,
+          "y": 0
+        },
+        "width": 1080,
+        "height": 540
+      },
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171133777%2F1544278434403%2F1%2Foriginal.20251117-114632?auto=format%2Ccompress&q=75&sharp=10&s=0a891ede5597498ef46b51c33c4f1a0b",
+        "width": 1081,
+        "height": 1350
+      },
+      "id": "1171133777",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171133777%2F1544278434403%2F1%2Foriginal.20251117-114632?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1080%2C540&s=70e25a2aee8ab966b253f5cbcfbfcfca",
+      "aspect_ratio": "2",
+      "edge_color": "#b38973",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "Worlds Collide",
+      "html": "Worlds Collide"
+    },
+    "description": {
+      "text": "The Unofficial After, after party for United XR Europe community. A \"Spatial Town  Hall \" with industry leaders and amazing DJ's.",
+      "html": "The Unofficial After, after party for United XR Europe community. A \"Spatial Town  Hall \" with industry leaders and amazing DJ's."
+    },
+    "url": "https://www.eventbrite.com/e/worlds-collide-tickets-1976753897119",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-09T19:00:00",
+      "utc": "2025-12-09T18:00:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-09T23:30:00",
+      "utc": "2025-12-09T22:30:00Z"
+    },
+    "organization_id": "2985372888815",
+    "created": "2025-12-03T17:43:43Z",
+    "changed": "2025-12-08T11:41:57Z",
+    "published": "2025-12-03T18:10:26Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "USD",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "en_US",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "coyote",
+    "is_free": false,
+    "version": null,
+    "summary": "The Unofficial After, after party for United XR Europe community. A \"Spatial Town  Hall \" with industry leaders and amazing DJ's.",
+    "facebook_event_id": null,
+    "logo_id": "1172475953",
+    "organizer_id": "120719137846",
+    "venue_id": "295487905",
+    "category_id": "104",
+    "subcategory_id": "4999",
+    "format_id": "11",
+    "id": "1976753897119",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1976753897119/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172475953%2F2985372874717%2F1%2Foriginal.20251207-162243?auto=format%2Ccompress&q=75&sharp=10&s=e13b80f0e0e692618e014afa0a7b69a0",
+        "width": 3120,
+        "height": 1755
+      },
+      "id": "1172475953",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172475953%2F2985372874717%2F1%2Foriginal.20251207-162243?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4259b0662016fe8a5e779afc2615126b",
+      "aspect_ratio": "1.775",
+      "edge_color": "#493161",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "\" Au-delà de la douleur\" Avant-première | Ciné talk",
+      "html": "&#34; Au-delà de la douleur&#34; Avant-première | Ciné talk"
+    },
+    "description": {
+      "text": "L’ASBL Kalifa vous invite à un après-midi fort en émotions et en échanges autour de la drépanocytose.",
+      "html": "L’ASBL Kalifa vous invite à un après-midi fort en émotions et en échanges autour de la drépanocytose."
+    },
+    "url": "https://www.eventbrite.be/e/au-dela-de-la-douleur-avant-premiere-cine-talk-tickets-1948506207519",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-20T15:00:00",
+      "utc": "2025-12-20T14:00:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-20T18:00:00",
+      "utc": "2025-12-20T17:00:00Z"
+    },
+    "organization_id": "2209310821043",
+    "created": "2025-11-02T20:35:57Z",
+    "changed": "2025-11-24T16:45:37Z",
+    "published": "2025-11-03T19:19:01Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": false,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "nl_BE",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "auto_create",
+    "is_free": false,
+    "version": null,
+    "summary": "L’ASBL Kalifa vous invite à un après-midi fort en émotions et en échanges autour de la drépanocytose.",
+    "facebook_event_id": null,
+    "logo_id": "1168524573",
+    "organizer_id": "113450959261",
+    "venue_id": "294728683",
+    "category_id": "104",
+    "subcategory_id": "4002",
+    "format_id": "7",
+    "id": "1948506207519",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1948506207519/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1168524573%2F2209310629713%2F1%2Foriginal.20251102-211107?auto=format%2Ccompress&q=75&sharp=10&s=f5ca84f0dd079e0a50b90437607c6f76",
+        "width": 1080,
+        "height": 1350
+      },
+      "id": "1168524573",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1168524573%2F2209310629713%2F1%2Foriginal.20251102-211107?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.496&fp-y=0.022&s=2e01a0672995869c8067fc0328b9306c",
+      "aspect_ratio": "0.8",
+      "edge_color": "#221810",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "TDI YEARLY 2025",
+      "html": "TDI YEARLY 2025"
+    },
+    "description": {
+      "text": "The EU’s Trade Defence Policy is constantly developing. The conference will present and review the most important novelties of the year 2025",
+      "html": "The EU’s Trade Defence Policy is constantly developing. The conference will present and review the most important novelties of the year 2025"
+    },
+    "url": "https://www.eventbrite.be/e/tdi-yearly-2025-registration-1828732832129",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-11T09:30:00",
+      "utc": "2025-12-11T08:30:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-11T17:15:00",
+      "utc": "2025-12-11T16:15:00Z"
+    },
+    "organization_id": "648071283233",
+    "created": "2025-10-15T12:49:48Z",
+    "changed": "2025-12-08T12:24:52Z",
+    "published": "2025-10-15T13:07:06Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 900,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "en_GB",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "coyote",
+    "is_free": false,
+    "version": null,
+    "summary": "The EU’s Trade Defence Policy is constantly developing. The conference will present and review the most important novelties of the year 2025",
+    "facebook_event_id": null,
+    "logo_id": "1153835973",
+    "organizer_id": "36533697173",
+    "venue_id": "291984493",
+    "category_id": "112",
+    "subcategory_id": "12001",
+    "format_id": "1",
+    "id": "1828732832129",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1828732832129/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": {
+        "top_left": {
+          "x": 0,
+          "y": 169
+        },
+        "width": 5464,
+        "height": 2732
+      },
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1153835973%2F648069490773%2F1%2Foriginal.20251015-125737?auto=format%2Ccompress&q=75&sharp=10&s=dd81ebf73934353e8c9591a2a6d23a9a",
+        "width": 5464,
+        "height": 3070
+      },
+      "id": "1153835973",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1153835973%2F648069490773%2F1%2Foriginal.20251015-125737?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C169%2C5464%2C2732&s=59d82b93bb359ce94770083404601106",
+      "aspect_ratio": "2",
+      "edge_color": "#273764",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "SOIREE TARMAC - TARMAC PARTY",
+      "html": "SOIREE TARMAC - TARMAC PARTY"
+    },
+    "description": {
+      "text": "Viens faire la fête avec TARMAC le 20 décembre 2025 pour vivre un moment inoubliable en présence de tes animateurs et animatrices préférés",
+      "html": "Viens faire la fête avec TARMAC le 20 décembre 2025 pour vivre un moment inoubliable en présence de tes animateurs et animatrices préférés"
+    },
+    "url": "https://www.eventbrite.fr/e/billets-soiree-tarmac-tarmac-party-1965099541628",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-20T20:00:00",
+      "utc": "2025-12-20T19:00:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-21T04:00:00",
+      "utc": "2025-12-21T03:00:00Z"
+    },
+    "organization_id": "288138124246",
+    "created": "2025-11-07T12:54:28Z",
+    "changed": "2025-12-08T11:08:51Z",
+    "published": "2025-11-18T13:23:05Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": false,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "fr_FR",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "coyote",
+    "is_free": false,
+    "version": null,
+    "summary": "Viens faire la fête avec TARMAC le 20 décembre 2025 pour vivre un moment inoubliable en présence de tes animateurs et animatrices préférés",
+    "facebook_event_id": null,
+    "logo_id": "1171232278",
+    "organizer_id": "18500473090",
+    "venue_id": "295103082",
+    "category_id": null,
+    "subcategory_id": null,
+    "format_id": null,
+    "id": "1965099541628",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1965099541628/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": {
+        "top_left": {
+          "x": 0,
+          "y": 8
+        },
+        "width": 1920,
+        "height": 960
+      },
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171232278%2F288138124246%2F1%2Foriginal.20251118-123706?auto=format%2Ccompress&q=75&sharp=10&s=957181c43e50e2780b9eed0fb6ece0b6",
+        "width": 1920,
+        "height": 1080
+      },
+      "id": "1171232278",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171232278%2F288138124246%2F1%2Foriginal.20251118-123706?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C8%2C1920%2C960&s=a1045fa8685451b13fd1310a7a2e1a1b",
+      "aspect_ratio": "2",
+      "edge_color": "#4e5565",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "ROJDA",
+      "html": "ROJDA"
+    },
+    "description": {
+      "text": "Rojda, 18 Ocak’ta Brüksel’de sevenleri ile buluşuyor! / Rojda bi 18’ê Çileyê li Brûkselê bi hevalên xwe re tê hevîdan!",
+      "html": "Rojda, 18 Ocak’ta Brüksel’de sevenleri ile buluşuyor! / Rojda bi 18’ê Çileyê li Brûkselê bi hevalên xwe re tê hevîdan!"
+    },
+    "url": "https://www.eventbrite.com/e/rojda-tickets-1719659240079",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2026-01-18T20:00:00",
+      "utc": "2026-01-18T19:00:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2026-01-18T22:00:00",
+      "utc": "2026-01-18T21:00:00Z"
+    },
+    "organization_id": "2910203408151",
+    "created": "2025-09-19T11:54:40Z",
+    "changed": "2025-12-07T21:31:28Z",
+    "published": "2025-09-19T12:39:51Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "en_US",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "reserved",
+    "is_reserved_seating": true,
+    "show_pick_a_seat": true,
+    "show_seatmap_thumbnail": true,
+    "show_colors_in_seatmap_thumbnail": true,
+    "source": "coyote",
+    "is_free": false,
+    "version": null,
+    "summary": "Rojda, 18 Ocak’ta Brüksel’de sevenleri ile buluşuyor! / Rojda bi 18’ê Çileyê li Brûkselê bi hevalên xwe re tê hevîdan!",
+    "facebook_event_id": null,
+    "logo_id": "1129178483",
+    "organizer_id": "117018145991",
+    "venue_id": "287935003",
+    "category_id": "105",
+    "subcategory_id": "5999",
+    "format_id": "6",
+    "id": "1719659240079",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1719659240079/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": {
+        "top_left": {
+          "x": 0,
+          "y": 32
+        },
+        "width": 1920,
+        "height": 960
+      },
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1129178483%2F2910203025491%2F1%2Foriginal.20250919-114018?auto=format%2Ccompress&q=75&sharp=10&s=e9b3b07ea3828a3267ceb34a0b3ce2cf",
+        "width": 1920,
+        "height": 1080
+      },
+      "id": "1129178483",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1129178483%2F2910203025491%2F1%2Foriginal.20250919-114018?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C32%2C1920%2C960&s=7ab72209cfba95745f9ee76897e7e8df",
+      "aspect_ratio": "2",
+      "edge_color": "#1d1511",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "SELDA BAĞCAN LIVE",
+      "html": "SELDA BAĞCAN LIVE"
+    },
+    "description": {
+      "text": "Selda Bağcan 15 şubat Novum sahnesinde Brüksel'de sevenleri ile buluşuyor / Selda Bagcan meets her fans at Novum Brussels!",
+      "html": "Selda Bağcan 15 şubat Novum sahnesinde Brüksel'de sevenleri ile buluşuyor / Selda Bagcan meets her fans at Novum Brussels!"
+    },
+    "url": "https://www.eventbrite.com/e/selda-bagcan-live-tickets-1795327004399",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2026-02-15T20:00:00",
+      "utc": "2026-02-15T19:00:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2026-02-15T22:00:00",
+      "utc": "2026-02-15T21:00:00Z"
+    },
+    "organization_id": "2910203408151",
+    "created": "2025-10-09T12:17:04Z",
+    "changed": "2025-12-07T19:42:05Z",
+    "published": "2025-10-09T12:30:34Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "en_US",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "reserved",
+    "is_reserved_seating": true,
+    "show_pick_a_seat": true,
+    "show_seatmap_thumbnail": true,
+    "show_colors_in_seatmap_thumbnail": true,
+    "source": "coyote",
+    "is_free": false,
+    "version": null,
+    "summary": "Selda Bağcan 15 şubat Novum sahnesinde Brüksel'de sevenleri ile buluşuyor / Selda Bagcan meets her fans at Novum Brussels!",
+    "facebook_event_id": null,
+    "logo_id": "1148865663",
+    "organizer_id": "117018145991",
+    "venue_id": "287935003",
+    "category_id": "103",
+    "subcategory_id": "3031",
+    "format_id": "6",
+    "id": "1795327004399",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1795327004399/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1148865663%2F2910203025491%2F1%2Foriginal.20251009-114436?auto=format%2Ccompress&q=75&sharp=10&s=d7b5fe56494fdf93c3146311d75d61bc",
+        "width": 2160,
+        "height": 1080
+      },
+      "id": "1148865663",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1148865663%2F2910203025491%2F1%2Foriginal.20251009-114436?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=15bdfc0b754826c798160868099a2735",
+      "aspect_ratio": "2",
+      "edge_color": "#160a27",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "Le Trio Joubran",
+      "html": "Le Trio Joubran"
+    },
+    "description": {
+      "text": "The Palestinian brothers Le Trio Joubran will perform in Brussels on March 22.",
+      "html": "The Palestinian brothers Le Trio Joubran will perform in Brussels on March 22."
+    },
+    "url": "https://www.eventbrite.com/e/le-trio-joubran-tickets-1969974478696",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2026-03-22T20:00:00",
+      "utc": "2026-03-22T19:00:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2026-03-22T22:00:00",
+      "utc": "2026-03-22T21:00:00Z"
+    },
+    "organization_id": "2910203408151",
+    "created": "2025-11-13T21:58:17Z",
+    "changed": "2025-11-13T22:06:00Z",
+    "published": "2025-11-13T22:06:00Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "en_US",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "reserved",
+    "is_reserved_seating": true,
+    "show_pick_a_seat": true,
+    "show_seatmap_thumbnail": true,
+    "show_colors_in_seatmap_thumbnail": true,
+    "source": "coyote",
+    "is_free": false,
+    "version": null,
+    "summary": "The Palestinian brothers Le Trio Joubran will perform in Brussels on March 22.",
+    "facebook_event_id": null,
+    "logo_id": "1170921450",
+    "organizer_id": "117018145991",
+    "venue_id": "287935003",
+    "category_id": "105",
+    "subcategory_id": "5001",
+    "format_id": "6",
+    "id": "1969974478696",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1969974478696/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170921450%2F2910203025491%2F1%2Foriginal.20251113-215238?auto=format%2Ccompress&q=75&sharp=10&s=f32d687537b276985d99214f506c5531",
+        "width": 1478,
+        "height": 648
+      },
+      "id": "1170921450",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170921450%2F2910203025491%2F1%2Foriginal.20251113-215238?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6edab2eb5d61d5a7071e70a4bf128a85",
+      "aspect_ratio": "2.284263959390862944162436548",
+      "edge_color": "#d6d6d6",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "Conférence de WASI avec L'épaule au Top",
+      "html": "Conférence de WASI avec L&#39;épaule au Top"
+    },
+    "description": {
+      "text": "\"La lésion dégénérative de la coiffe des rotateurs : destin inévitable mais chirurgie évitable ?\"",
+      "html": "\"La lésion dégénérative de la coiffe des rotateurs : destin inévitable mais chirurgie évitable ?\""
+    },
+    "url": "https://www.eventbrite.fr/e/conference-de-wasi-avec-lepaule-au-top-tickets-1968832140933",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2026-01-15T19:00:00",
+      "utc": "2026-01-15T18:00:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2026-01-15T22:00:00",
+      "utc": "2026-01-15T21:00:00Z"
+    },
+    "organization_id": "2357680630123",
+    "created": "2025-11-12T19:47:09Z",
+    "changed": "2025-12-07T17:41:35Z",
+    "published": "2025-11-12T19:59:39Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "en_US",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "coyote",
+    "is_free": false,
+    "version": null,
+    "summary": "\"La lésion dégénérative de la coiffe des rotateurs : destin inévitable mais chirurgie évitable ?\"",
+    "facebook_event_id": null,
+    "logo_id": null,
+    "organizer_id": "95447205033",
+    "venue_id": "295184668",
+    "category_id": "107",
+    "subcategory_id": "7003",
+    "format_id": "1",
+    "id": "1968832140933",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1968832140933/",
+    "is_externally_ticketed": false,
+    "logo": null
+  },
+  {
+    "name": {
+      "text": "POP X",
+      "html": "POP X"
+    },
+    "description": {
+      "text": "POP X arrives in Brussels with a LIVE  TOUR IN EUROPE, ready to transform Pilar Bruxelles into a wild, immersive and liberating  experience.",
+      "html": "POP X arrives in Brussels with a LIVE  TOUR IN EUROPE, ready to transform Pilar Bruxelles into a wild, immersive and liberating  experience."
+    },
+    "url": "https://www.eventbrite.be/e/pop-x-tickets-1972541632121",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2026-01-17T21:00:00",
+      "utc": "2026-01-17T20:00:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2026-01-17T23:00:00",
+      "utc": "2026-01-17T22:00:00Z"
+    },
+    "organization_id": "952560964723",
+    "created": "2025-11-17T12:08:43Z",
+    "changed": "2025-12-07T22:38:00Z",
+    "published": "2025-11-18T13:00:13Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "en_US",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "apiv3_android",
+    "is_free": false,
+    "version": null,
+    "summary": "POP X arrives in Brussels with a LIVE  TOUR IN EUROPE, ready to transform Pilar Bruxelles into a wild, immersive and liberating  experience.",
+    "facebook_event_id": null,
+    "logo_id": "1171809586",
+    "organizer_id": "46793788563",
+    "venue_id": "295258183",
+    "category_id": "103",
+    "subcategory_id": "3001",
+    "format_id": "6",
+    "id": "1972541632121",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1972541632121/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": {
+        "top_left": {
+          "x": 0,
+          "y": 0
+        },
+        "width": 1640,
+        "height": 820
+      },
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171809586%2F952557853093%2F1%2Foriginal.20251126-150615?auto=format%2Ccompress&q=75&sharp=10&s=387c7a10bf74cf461c0b7a6e5c68ed33",
+        "width": 1640,
+        "height": 924
+      },
+      "id": "1171809586",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171809586%2F952557853093%2F1%2Foriginal.20251126-150615?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1640%2C820&s=5a6f56d65b4352f137600e94860b26f8",
+      "aspect_ratio": "2",
+      "edge_color": "#64838d",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "XXXOUDN IN DA HOTEL 2.0",
+      "html": "XXXOUDN IN DA HOTEL 2.0"
+    },
+    "description": {
+      "text": "We’re hosting IN DA HOTEL 2.0 at the Meininger Hotel. Join us for a night of deep, driving techno in an intimate indoor setting, with a crow",
+      "html": "We’re hosting IN DA HOTEL 2.0 at the Meininger Hotel. Join us for a night of deep, driving techno in an intimate indoor setting, with a crow"
+    },
+    "url": "https://www.eventbrite.be/e/xxxoudn-in-da-hotel-20-tickets-1975571026120",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-13T14:00:00",
+      "utc": "2025-12-13T13:00:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-14T01:00:00",
+      "utc": "2025-12-14T00:00:00Z"
+    },
+    "organization_id": "2633130741671",
+    "created": "2025-11-25T12:41:21Z",
+    "changed": "2025-12-04T15:33:23Z",
+    "published": "2025-11-25T13:33:44Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "en_US",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "coyote",
+    "is_free": false,
+    "version": null,
+    "summary": "We’re hosting IN DA HOTEL 2.0 at the Meininger Hotel. Join us for a night of deep, driving techno in an intimate indoor setting, with a crow",
+    "facebook_event_id": null,
+    "logo_id": "1171718297",
+    "organizer_id": "107574651041",
+    "venue_id": "286548243",
+    "category_id": "103",
+    "subcategory_id": "3006",
+    "format_id": "11",
+    "id": "1975571026120",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1975571026120/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171718297%2F2633130701391%2F1%2Foriginal.20251125-123117?auto=format%2Ccompress&q=75&sharp=10&s=b0d9d615404b5bbc33e5813c1ec8d161",
+        "width": 1080,
+        "height": 1350
+      },
+      "id": "1171718297",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171718297%2F2633130701391%2F1%2Foriginal.20251125-123117?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=33ab17bedc799aed9083c9bb0358cd53",
+      "aspect_ratio": "0.8",
+      "edge_color": "#9076d9",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "KinArmat Talks with CEO Isabelle De Walsche",
+      "html": "KinArmat Talks with CEO Isabelle De Walsche"
+    },
+    "description": {
+      "text": "At the KinArmat Talks, we delve beyond titles to engage in honest conversations about leadership, ambition, and impact.",
+      "html": "At the KinArmat Talks, we delve beyond titles to engage in honest conversations about leadership, ambition, and impact."
+    },
+    "url": "https://www.eventbrite.be/e/kinarmat-talks-with-ceo-isabelle-de-walsche-tickets-1968487679640",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-15T18:30:00",
+      "utc": "2025-12-15T17:30:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-15T21:30:00",
+      "utc": "2025-12-15T20:30:00Z"
+    },
+    "organization_id": "331584880447",
+    "created": "2025-11-12T09:12:37Z",
+    "changed": "2025-11-28T14:00:05Z",
+    "published": "2025-11-12T09:24:25Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "en_US",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "coyote",
+    "is_free": false,
+    "version": null,
+    "summary": "At the KinArmat Talks, we delve beyond titles to engage in honest conversations about leadership, ambition, and impact.",
+    "facebook_event_id": null,
+    "logo_id": "1170765628",
+    "organizer_id": "68652918823",
+    "venue_id": "295173004",
+    "category_id": "107",
+    "subcategory_id": "7999",
+    "format_id": "2",
+    "id": "1968487679640",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1968487679640/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": null,
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170765628%2F331584880447%2F1%2Foriginal.20251112-091651?auto=format%2Ccompress&q=75&sharp=10&s=b70545a44fb0058031015a53653663e1",
+        "width": 2160,
+        "height": 1080
+      },
+      "id": "1170765628",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170765628%2F331584880447%2F1%2Foriginal.20251112-091651?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=baf9631130fac384d7196a9bd32c2d93",
+      "aspect_ratio": "2",
+      "edge_color": "#c49964",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "MA JOLIE ♡ XMAS EDITION ♡ Sat. December 13th",
+      "html": "MA JOLIE ♡ XMAS EDITION ♡ Sat. December 13th"
+    },
+    "description": {
+      "text": "For this edition, our Candy Shop comes in a Xmas Edition with Xmas gifts and sweet delights",
+      "html": "For this edition, our Candy Shop comes in a Xmas Edition with Xmas gifts and sweet delights"
+    },
+    "url": "https://www.eventbrite.be/e/ma-jolie-xmas-edition-sat-december-13th-tickets-1974930655755",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-13T23:00:00",
+      "utc": "2025-12-13T22:00:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-14T06:00:00",
+      "utc": "2025-12-14T05:00:00Z"
+    },
+    "organization_id": "2002461641943",
+    "created": "2025-11-19T19:30:21Z",
+    "changed": "2025-12-04T19:22:30Z",
+    "published": "2025-11-19T19:37:57Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "en_US",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "coyote",
+    "is_free": false,
+    "version": null,
+    "summary": "For this edition, our Candy Shop comes in a Xmas Edition with Xmas gifts and sweet delights",
+    "facebook_event_id": null,
+    "logo_id": "1171359342",
+    "organizer_id": "78764759673",
+    "venue_id": "295311294",
+    "category_id": "116",
+    "subcategory_id": "16999",
+    "format_id": "11",
+    "id": "1974930655755",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1974930655755/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": {
+        "top_left": {
+          "x": 0,
+          "y": 60
+        },
+        "width": 1920,
+        "height": 960
+      },
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171359342%2F2002455458963%2F1%2Foriginal.20251119-193316?auto=format%2Ccompress&q=75&sharp=10&s=668395b1e78ec1c3679364532be88d5a",
+        "width": 1920,
+        "height": 1080
+      },
+      "id": "1171359342",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171359342%2F2002455458963%2F1%2Foriginal.20251119-193316?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C60%2C1920%2C960&s=6f235bae029d83247fb478fbfeb4776b",
+      "aspect_ratio": "2",
+      "edge_color": "#a97e34",
+      "edge_color_set": true
+    }
+  },
+  {
+    "name": {
+      "text": "WE LOVE 80s, 90s, 00s / ENTRÉE GRATUITE <22h30 / Single Party / Acte 3",
+      "html": "WE LOVE 80s, 90s, 00s / ENTRÉE GRATUITE &lt;22h30 / Single Party / Acte 3"
+    },
+    "description": {
+      "text": "COEUR COEUR & GENERATION30+ vous fixent rendez-vous à L’Acte 3 Event Hall pour LA PLUS GRANDE SOIREE   spéciale pour célibataires",
+      "html": "COEUR COEUR &amp; GENERATION30+ vous fixent rendez-vous à L’Acte 3 Event Hall pour LA PLUS GRANDE SOIREE   spéciale pour célibataires"
+    },
+    "url": "https://www.eventbrite.be/e/billets-we-love-80s-90s-00s-entree-gratuite-22h30-single-party-acte-3-1974243060138",
+    "start": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-27T21:00:00",
+      "utc": "2025-12-27T20:00:00Z"
+    },
+    "end": {
+      "timezone": "Europe/Brussels",
+      "local": "2025-12-28T04:00:00",
+      "utc": "2025-12-28T03:00:00Z"
+    },
+    "organization_id": "118388233939",
+    "created": "2025-11-18T14:04:52Z",
+    "changed": "2025-11-18T14:16:59Z",
+    "published": "2025-11-18T14:16:59Z",
+    "capacity": null,
+    "capacity_is_custom": null,
+    "status": "live",
+    "currency": "EUR",
+    "listed": true,
+    "shareable": true,
+    "online_event": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "fr_FR",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "coyote",
+    "is_free": false,
+    "version": null,
+    "summary": "COEUR COEUR & GENERATION30+ vous fixent rendez-vous à L’Acte 3 Event Hall pour LA PLUS GRANDE SOIREE   spéciale pour célibataires",
+    "facebook_event_id": null,
+    "logo_id": "1171237795",
+    "organizer_id": "83842637733",
+    "venue_id": "295284070",
+    "category_id": "116",
+    "subcategory_id": "16001",
+    "format_id": "11",
+    "id": "1974243060138",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/1974243060138/",
+    "is_externally_ticketed": false,
+    "logo": {
+      "crop_mask": {
+        "top_left": {
+          "x": 324,
+          "y": 0
+        },
+        "width": 1234,
+        "height": 617
+      },
+      "original": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171237795%2F118388233939%2F1%2Foriginal.20251118-140746?auto=format%2Ccompress&q=75&sharp=10&s=c702a337f06c8c15870369f031161931",
+        "width": 1600,
+        "height": 617
+      },
+      "id": "1171237795",
+      "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171237795%2F118388233939%2F1%2Foriginal.20251118-140746?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=324%2C0%2C1234%2C617&s=263b95dbb3b44908aca85dcefb4a5555",
+      "aspect_ratio": "2",
+      "edge_color": "#392f2f",
+      "edge_color_set": true
+    }
+  }
+]
